@@ -1,0 +1,2 @@
+# GlobalComputer
+Equipo de trabajo
